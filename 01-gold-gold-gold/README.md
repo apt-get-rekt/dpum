@@ -4,6 +4,8 @@
 
 Like all Dwarves, Glóin Rockcrusher loves gold. He loves to hunt for gold while singing his favourite song "Gold! Gold! Gold!". Thanks to his magic map, it is a somewhat simple task. Glóin wants you to tell him how many spots of gold are reachable.
 
+![Gloin](https://raw.githubusercontent.com/apt-get-rekt/dpum/master/01-gold-gold-gold/gloin.jpeg)
+
 ## Problem
 
 You are given a map of the entire mine that contains Glóin's position as long as all the position of all the gold. Your goal is to count how many are reachable from Glóin's position. Notice that, due to a family curse, Glóin can only walk orthogonally and not diagonally.
