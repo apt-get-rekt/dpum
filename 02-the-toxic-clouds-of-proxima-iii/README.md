@@ -1,6 +1,6 @@
 # The Toxic Clouds of Proxima III
 
-![Proxima](https://raw.githubusercontent.com/apt-get-rekt/dpum/master/dpum/02-the-toxic-clouds-of-proxima-iii/proxima.jpeg)
+![Proxima](https://raw.githubusercontent.com/apt-get-rekt/dpum/master/02-the-toxic-clouds-of-proxima-iii/proxima.jpeg)
 
 ## Introduction
 
